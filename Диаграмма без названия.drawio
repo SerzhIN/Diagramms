@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T07:16:37.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.785 (corp) Yowser/2.5 Safari/537.36" etag="V8Rv2tW_wmwv8XN4bjMl" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T07:17:08.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.785 (corp) Yowser/2.5 Safari/537.36" etag="FQ5IO5x3MLp0n6Sz7Bhp" version="21.6.5" type="github">
   <diagram name="Страница 1" id="VmuSpo7wx1FPYqAFTilH">
     <mxGraphModel dx="1386" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,24 @@
         </mxCell>
         <mxCell id="7XYtBNyo5Kn1e1S5oZJA-4" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7XYtBNyo5Kn1e1S5oZJA-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7XYtBNyo5Kn1e1S5oZJA-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7XYtBNyo5Kn1e1S5oZJA-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="820" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="820" />
+              <mxPoint x="740" y="540" />
+              <mxPoint x="360" y="770" />
+              <mxPoint x="550" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
